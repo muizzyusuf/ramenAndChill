@@ -1,0 +1,19 @@
+#filters{
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+footer {
+    background-color:  rgb(126, 126, 126);
+    color: white;
+}
+
+footer a{
+    color: white;
+}
+
+footer img {
+    width: 30px;
+    height: 30px;
+    margin-left: 25px;
+}

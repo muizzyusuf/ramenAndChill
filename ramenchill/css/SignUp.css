@@ -1,0 +1,61 @@
+p{
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+form{
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.774);
+    padding: 10px;
+    margin: auto auto 5em auto;
+
+}
+fieldset{
+    position: relative;
+    border: double;
+    border-color: rgb(17, 116, 119);
+}
+
+input#Log{
+    background-color: rgb(30, 164, 168);
+    border-radius: 0.25em;
+    border: none;
+    width: 100px;
+    height: 25px;
+    font-weight: bold;
+    color: white;
+    display: block;
+    margin: 25px auto;
+}
+
+input{
+    width: 270px;
+    border-radius: 0.2em;
+}
+
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+a{
+    color: rgb(30, 164, 168) ;
+}
+
+footer {
+    background-color:  rgb(126, 126, 126);
+    color: white;
+}
+
+footer a{
+    color: white;
+}
+
+footer img {
+    width: 30px;
+    height: 30px;
+    margin-left: 25px;
+}
+
+.has-error {
+    border: 2px solid red;
+  }
